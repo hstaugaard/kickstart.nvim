@@ -3,5 +3,8 @@
   "words": [
     "Iosevka",
     "nvim"
+  ],
+  "ignoreWords": [
+    "etovxqpdygfblzhckisuran"
   ]
 }
