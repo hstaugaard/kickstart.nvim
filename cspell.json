@@ -2,9 +2,12 @@
   "allowCompoundWords": true,
   "words": [
     "Iosevka",
+    "lspconfig",
+    "lualine",
     "nvim"
   ],
   "ignoreWords": [
-    "etovxqpdygfblzhckisuran"
+    "etovxqpdygfblzhckisuran",
+    "tpope"
   ]
 }
