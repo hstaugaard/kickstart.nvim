@@ -32,15 +32,13 @@ require('lazy').setup({
 
   require 'kickstart/plugins/blink-cmp',
 
-  -- require 'kickstart/plugins/tokyonight',
-
   require 'kickstart.plugins.todo-comments',
 
   require 'kickstart.plugins.mini',
 
   require 'kickstart.plugins.treesitter',
 
-  require 'kickstart/plugins/neo-solarized',
+  require 'kickstart/plugins/solarized',
 
   require 'kickstart/plugins/lualine',
 
